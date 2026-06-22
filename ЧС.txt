@@ -1,3 +1,8 @@
+#profile-title: ЧС (fuck rkn)
+#profile-update-interval: 1
+#support-url: https://t.me/MediatekUSBPort
+#profile-web-page-url: https://t.me/MediatekUSBPort
+#hide-settings: 1
 hysteria2://bmw32hjrgwaflcf1@ee2.xxee.ru:443?security=tls&sni=ee2.xxee.ru&alpn=h3&obfs=salamander&obfs-password=b2f2adce1536c874#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%A7%D0%A1%20%40MediatekUSBPort
 hysteria2://bmw32hjrgwaflcf1@ch1.xxee.ru:443?security=tls&sni=getch1in.xxee.ru&alpn=h3&obfs=salamander&obfs-password=87c4fe9bb7465062#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%A7%D0%A1%20%40MediatekUSBPort
 hysteria2://bmw32hjrgwaflcf1@gb1.xxee.ru:443?security=tls&sni=getgb1in.xxee.ru&alpn=h3&obfs=salamander&obfs-password=10179fbf6755b594#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%A7%D0%A1%20%40MediatekUSBPort
